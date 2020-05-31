@@ -1,0 +1,16 @@
+{
+  "name": "engineerpills",
+  "version": "1.0.0",
+  "description": "blog for engineer topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "engineering",
+    "engineer"
+  ],
+  "author": "Daniel C. Cardona",
+  "license": "ISC"
+}
